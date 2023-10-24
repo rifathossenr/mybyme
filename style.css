@@ -366,11 +366,13 @@ form button{
     border: 1px solid transparent;
     display: block;
     transition: .3s ease;
+    /* width: 250px; */
 }
 
 .listitem ul li a:hover{
-    padding-left: 10px;
+
     color: #7a4d4d;
+    transform: translateX(10px);
 }
 
 footer{
@@ -399,6 +401,7 @@ footer{
 }
 
 .iconsection .icoico2 ul li a{
+    display: block;
     color: #fff;
     font-size: 24px;
 }
