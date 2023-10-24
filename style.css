@@ -369,7 +369,7 @@ form button{
 }
 
 .listitem ul li a:hover{
-    /* padding-left: 10px; */
+    padding-left: 10px;
     color: #7a4d4d;
 }
 
